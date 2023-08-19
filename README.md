@@ -15,11 +15,8 @@
 
 -->
 
-<h3 align="center">I'm <a href="https://shor.by">Henry</a>, a <a>10+ Years Experienced Full Stack Developer</a> from China. 🇨🇳  </h3>
 
-
-
-
+- :octocat: [Henry](https://trybetter.app/), a `Full Stack Developer/Indie Hacker` from China 🇨🇳 with `10+ years` of programming experience.
 
 - 🌱 Here's My Tech [Blog](https://github.com/hhstore/blog/issues)
 
